@@ -68,7 +68,7 @@ const courseData = [
             <button onClick={() => setDark(!dark)} className="toggle-btn">
               {dark ? <Sun size={20} color="#fbbf24" /> : <Moon size={20} color="#334155" />}
             </button>
-            <button className="btn btn-primary nav-enroll">Enroll Now</button>
+            <button className="btn btn-primary nav-enroll">SignUp Now</button>
           </div>
         </div>
       </nav>
