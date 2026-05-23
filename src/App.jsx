@@ -1,6 +1,6 @@
 import React from "react";
 import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
-import Landing from "./pages/landing"; // Corrected path here
+import Landing from "./pages/Landing"; // Corrected path here
 import About from "./pages/about"
 
 
